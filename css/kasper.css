@@ -154,6 +154,6 @@ header nav .form i{
     background-color: rgba(0, 0, 0, 60%);
 }
 .landing .text {
-    
+    position: absolute;
 }
 /* End landing */
