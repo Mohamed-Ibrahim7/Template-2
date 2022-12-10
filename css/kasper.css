@@ -45,5 +45,6 @@ list-style: none;
 header .container{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 /* End Header  */
