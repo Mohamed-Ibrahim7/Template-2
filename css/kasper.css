@@ -12,4 +12,7 @@ html{
 body{
     font-family: 'Open Sans', sans-serif;
 }
+ul{
+list-style: none;
+}
 /* End Global rules  */
