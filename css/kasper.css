@@ -146,7 +146,7 @@ header nav .form i{
     background-image:url(../images/landing.jpg);
 }
 .landing .overlay{
-
+    position: absolute;
 }
 
 /* End landing */
