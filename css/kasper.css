@@ -148,6 +148,8 @@ header nav .form i{
 .landing .overlay{
     position: absolute;
     left: 0;
+    top:0;
+    
 }
 
 /* End landing */
