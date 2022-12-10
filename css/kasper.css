@@ -98,7 +98,7 @@ header nav ul{
         width: 100%;
         background-color: rgba(0, 0, 0, 50%);
     }
-    header nav .toggle-menu:hover + ul a{
+    header nav .toggle-menu:hover + ul li a{
         padding: 15px;
     }
 }
