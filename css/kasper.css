@@ -139,6 +139,6 @@ header nav .form i{
 /* End Header  */
 /* Start landing */
 .landing{
-    
+    min-height: 100vh;
 }
 /* End landing */
