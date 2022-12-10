@@ -15,4 +15,7 @@ body{
 ul{
 list-style: none;
 }
+.container {
+    padding-left: 15px;
+}
 /* End Global rules  */
