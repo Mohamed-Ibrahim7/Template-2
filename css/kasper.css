@@ -41,3 +41,8 @@ list-style: none;
     }
 }
 /* End Global rules  */
+/* Start Header  */
+header .container{
+    display: flex;
+}
+/* End Header  */
