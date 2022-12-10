@@ -141,5 +141,6 @@ header nav .form i{
 .landing{
     min-height: 100vh;
     background-color: #1f2021;
+    background-size: cover;
 }
 /* End landing */
