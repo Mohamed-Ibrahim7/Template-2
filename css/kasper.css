@@ -44,5 +44,6 @@ list-style: none;
 /* Start Header  */
 header .container{
     display: flex;
+    justify-content: space-between;
 }
 /* End Header  */
