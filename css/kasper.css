@@ -58,6 +58,6 @@ header .container::after{
     width: calc(100% - 30px);
 }
 header .logo img{
-    height: 50px;
+    height: 100px;
 }
 /* End Header  */
