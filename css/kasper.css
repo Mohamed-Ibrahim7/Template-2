@@ -62,5 +62,7 @@ header .logo img{
 }
 header nav{
     flex: 1;
+    display: flex;
+    align-items: center;
 }
 /* End Header  */
