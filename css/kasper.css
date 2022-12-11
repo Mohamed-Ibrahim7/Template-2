@@ -75,6 +75,7 @@ text-align: center;
     width: 14px;
     height: 14px;
     border-radius: 50%;
+    border: 2px solid #333;
 }
 /* End components  */
 /* Start Header  */
