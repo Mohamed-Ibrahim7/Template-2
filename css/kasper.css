@@ -286,7 +286,7 @@ right: 30px;
 @media (max-width: 767px) {
     .services .srv-box {
         display: flex;
-        
+        flex-direction: column;
     }
 }    
 .services .srv-box h3 {
