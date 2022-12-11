@@ -205,4 +205,8 @@ right: 30px;
     margin-right: 10px;
     border: 1px solid white;
 }
+.landing .bullets li.active {
+    background-color: var(--main-color);
+    border-color: var(--main-color);
+}
 /* End landing */
