@@ -193,5 +193,6 @@ right: 30px;
 }
 .landing .bullets {
     position: absolute;
+    left: 50%;
 }
 /* End landing */
