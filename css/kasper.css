@@ -57,6 +57,14 @@ text-align: center;
     margin-bottom: 70px;
     text-transform: uppercase;
 }
+.main-heading h2 ::before {
+    content: "";
+    position: absolute;
+
+
+
+    
+}
 /* End components  */
 /* Start Header  */
 header{
