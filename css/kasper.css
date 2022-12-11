@@ -271,6 +271,8 @@ right: 30px;
 }
 .services .srv-box {
     display: flex;
-    
+}
+.services .srv-box i {
+    margin-right: 50px;
 }
 /* End Services */
