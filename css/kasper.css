@@ -179,4 +179,7 @@ header nav .form i{
     font-size: 14;
     line-height: 2;
 }
+.landing .change-background {
+    position: relative;
+}
 /* End landing */
