@@ -70,6 +70,7 @@ text-align: center;
 .main-heading h2 ::after {
     content: "";
     position: absolute;
+    left: 50%;
 }
 /* End components  */
 /* Start Header  */
