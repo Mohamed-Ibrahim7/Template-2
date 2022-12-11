@@ -46,6 +46,11 @@ list-style: none;
     }
 }
 /* End Global rules  */
+/* Start components  */
+.main-heading {
+text-align: center;
+}
+/* End components  */
 /* Start Header  */
 header{
     position: absolute;
