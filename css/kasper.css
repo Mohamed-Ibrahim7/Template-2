@@ -279,4 +279,7 @@ right: 30px;
     margin-bottom: 30px;
     color: var(--main-color);
 }
+.services .srv-box p {
+    line-height: 2;
+}
 /* End Services */
