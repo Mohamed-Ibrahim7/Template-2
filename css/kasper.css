@@ -198,4 +198,9 @@ right: 30px;
     bottom: 30px;
     display: flex;
 }
+.landing .bullets li {
+    width: 20px;
+    height: 20px;
+    
+}
 /* End landing */
