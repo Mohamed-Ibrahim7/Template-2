@@ -194,5 +194,6 @@ right: 30px;
 .landing .bullets {
     position: absolute;
     left: 50%;
+    transform: translateY(-50%);
 }
 /* End landing */
