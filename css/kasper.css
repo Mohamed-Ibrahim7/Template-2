@@ -269,6 +269,11 @@ right: 30px;
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
 }
+@media (min-width: 768px) {
+    .services .services-container{
+        display: grid;
+    }
+}
 .services .srv-box {
     display: flex;
 }
