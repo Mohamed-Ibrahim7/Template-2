@@ -79,6 +79,9 @@ text-align: center;
     bottom: -38px;
     background-color: white;
 }
+.main-heading p {
+    width: 550px;
+}
 /* End components  */
 /* Start Header  */
 header{
