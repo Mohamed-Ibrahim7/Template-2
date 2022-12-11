@@ -50,6 +50,9 @@ list-style: none;
 .main-heading {
 text-align: center;
 }
+.main-heading h2 {
+    font-weight: normal;
+}
 /* End components  */
 /* Start Header  */
 header{
