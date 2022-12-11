@@ -263,3 +263,10 @@ right: 30px;
     border-color: var(--main-color);
 }
 /* End landing */
+/* Start Services */
+.services {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+/* End Services */
