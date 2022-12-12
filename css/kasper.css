@@ -310,6 +310,7 @@ right: 30px;
     height: 600px;
     position: relative;
     background-image: url("../images/design-features.jpg");
+    background-size: cover;
 
 }
 /* End Design  */
