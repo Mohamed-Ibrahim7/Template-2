@@ -364,3 +364,9 @@ right: 30px;
     top: 1px;
 }
 /* End Design  */
+/* Start portfolio */
+.portfolio {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+}
+/* End  portfolio */
