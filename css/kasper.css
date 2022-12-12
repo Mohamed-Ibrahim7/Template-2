@@ -382,5 +382,6 @@ right: 30px;
 }
 .portfolio .imgs-container {
     display: flex;
+    flex-wrap: wrap;
 }
 /* End  portfolio */
