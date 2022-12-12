@@ -455,5 +455,7 @@ header nav .form i{
 }
 .video .text {
     width: 100%;
+    position: absolute;
+    top: 50%;
 }
 /* End video  */
