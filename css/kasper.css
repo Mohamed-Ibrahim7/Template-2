@@ -380,4 +380,7 @@ right: 30px;
     background-color: var(--main-color);
     color: white;
 }
+.portfolio .imgs-container {
+    display: flex;
+}
 /* End  portfolio */
