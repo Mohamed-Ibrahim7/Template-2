@@ -303,3 +303,9 @@ right: 30px;
     color: #777;
 }
 /* End Services */
+/* Stert Design  */
+.design {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+}
+/* End Design  */
