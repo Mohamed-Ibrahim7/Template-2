@@ -450,4 +450,7 @@ header nav .form i{
     height: 100%;
     background-color: rgb(0 0 0 / 40%);
 }
+.video video {
+    width: 100%;
+}
 /* End video  */
