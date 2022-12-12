@@ -393,7 +393,7 @@ right: 30px;
 }
 .portfolio .imgs-container .box:hover img {
     transform: rotate(3deg) scale(1.1);
-    
+
 }
 @media (min-width: 768px) {
     .portfolio .imgs-container .box {
@@ -417,5 +417,8 @@ right: 30px;
     width: 100%;
     transition: 0.3s;
     bottom: -100%;
+}
+.portfolio .imgs-container .box .caption h4 {
+    font-weight: normal;
 }
 /* End  portfolio */
