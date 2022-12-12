@@ -129,7 +129,6 @@ header nav .toggle-menu{
         display:none;
     }
 }
-
 header nav ul{
     display: flex;
 }
@@ -386,6 +385,7 @@ right: 30px;
     margin-top: 60px;
 }
 .portfolio .imgs-container .box {
+    overflow: hidden;
     position: relative;
 }
 @media (min-width: 768px) {
@@ -399,7 +399,7 @@ right: 30px;
     }
 }
 .portfolio .imgs-container .box img {
-max-width: 100%;
+    max-width: 100%;
 }
 .portfolio .imgs-container .box .caption {
     position: absolute;
