@@ -340,5 +340,6 @@ right: 30px;
 .design .text {
     color: white;
     padding: 50px;
+    background-color: var(--tranparent-color);
 }
 /* End Design  */
