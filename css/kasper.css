@@ -432,5 +432,6 @@ right: 30px;
    display: block;
    width: fit-content;
    margin: 30px auto;
+   text-decoration: none;
 }
 /* End  portfolio */
