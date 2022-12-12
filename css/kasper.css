@@ -314,4 +314,8 @@ right: 30px;
     display: flex;
     align-items: center;
 }
+.design::before {
+    content: "";
+    position: absolute;
+}
 /* End Design  */
