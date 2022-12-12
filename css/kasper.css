@@ -398,4 +398,7 @@ right: 30px;
         flex-basis: 25%;
     }
 }
+.portfolio .imgs-container .box img {
+max-width: 100%;
+}
 /* End  portfolio */
