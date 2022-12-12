@@ -403,5 +403,6 @@ max-width: 100%;
 }
 .portfolio .imgs-container .box .caption {
     position: absolute;
+    left: 0;
 }
 /* End  portfolio */
