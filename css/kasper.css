@@ -383,5 +383,6 @@ right: 30px;
 .portfolio .imgs-container {
     display: flex;
     flex-wrap: wrap;
+    margin-top: 60px;
 }
 /* End  portfolio */
