@@ -313,6 +313,7 @@ right: 30px;
     background-size: cover;
     display: flex;
     align-items: center;
+    
 }
 .design::before {
     content: "";
@@ -331,5 +332,9 @@ right: 30px;
 }
 .design .image {
     text-align: center;
+}
+.design .image img{
+position: relative;
+
 }
 /* End Design  */
