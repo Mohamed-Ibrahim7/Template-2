@@ -342,4 +342,8 @@ right: 30px;
     padding: 50px;
     background-color: var(--tranparent-color);
 }
+.design .text h2{
+    font-weight: normal;
+    
+}
 /* End Design  */
