@@ -426,6 +426,6 @@ right: 30px;
     color: var(--main-color);
 }
 .portfolio .more {
-    
+   background-color: var(--main-color); 
 }
 /* End  portfolio */
