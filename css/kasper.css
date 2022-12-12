@@ -474,5 +474,6 @@ header nav .form i{
 .video .text button {
     background-color: black;
     color: white;
+    padding: 10px 20px;
 }
 /* End video  */
