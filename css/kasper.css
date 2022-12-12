@@ -244,7 +244,7 @@ header nav .form i{
     left: 30px;
 }
 .landing .fa-angle-right {
-right: 30px;
+    right: 30px;
 }
 .landing .bullets {
     position: absolute;
@@ -395,7 +395,6 @@ right: 30px;
 }
 .portfolio .imgs-container .box:hover img {
     transform: rotate(3deg) scale(1.1);
-
 }
 @media (min-width: 768px) {
     .portfolio .imgs-container .box {
