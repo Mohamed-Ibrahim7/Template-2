@@ -334,7 +334,7 @@ right: 30px;
     text-align: center;
 }
 .design .image img{
-position: relative;
-
+    position: relative;
+    bottom: -150px;
 }
 /* End Design  */
