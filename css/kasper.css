@@ -385,4 +385,17 @@ right: 30px;
     flex-wrap: wrap;
     margin-top: 60px;
 }
+.portfolio .imgs-container .box {
+
+}
+@media (min-width: 768px) {
+    .portfolio .imgs-container .box {
+        flex-basis: 50%;
+    }
+}
+@media (min-width: 1199px) {
+    .portfolio .imgs-container .box {
+        flex-basis: 25%;
+    }
+}
 /* End  portfolio */
