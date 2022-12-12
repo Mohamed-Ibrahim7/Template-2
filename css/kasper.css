@@ -386,7 +386,7 @@ right: 30px;
     margin-top: 60px;
 }
 .portfolio .imgs-container .box {
-position: relative;
+    position: relative;
 }
 @media (min-width: 768px) {
     .portfolio .imgs-container .box {
@@ -402,6 +402,6 @@ position: relative;
 max-width: 100%;
 }
 .portfolio .imgs-container .box .caption {
-
+    position: absolute;
 }
 /* End  portfolio */
